@@ -1,0 +1,6 @@
+Marco;01/09/2021;15:00;Pavia;50
+Marco;04/09/2021;15:00;Lungavilla;50
+Paolo;05/09/2021;10:00;Torremenapace;10
+Marco;05/09/2021;15:00;Milano;50
+Luca;05/09/2021;16:00;Oriolo;30
+Pietro;10/09/2021;15:00;Verreto;50

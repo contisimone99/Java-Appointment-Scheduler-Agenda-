@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"codice","l":"Agenda"},{"p":"exception","l":"AgendaException"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"codice","l":"Appuntamento"},{"p":"exception","l":"AppuntamentoException"},{"p":"jbook.util","l":"Input"},{"p":"interfaccia","l":"Interface"},{"p":"exception","l":"TimeException"}]

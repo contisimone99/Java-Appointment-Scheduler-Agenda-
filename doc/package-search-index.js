@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"codice"},{"l":"exception"},{"l":"interfaccia"},{"l":"jbook.util"},{"l":"test"}]
