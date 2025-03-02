@@ -70,3 +70,7 @@ The project includes JUnit tests for both the `Agenda` and `Appuntamento` classe
 
 - Java 14 or higher
 - JUnit 5 (for running tests)
+
+## Authors
+- Simone Conti
+- Matteo Pasotti
